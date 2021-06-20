@@ -27,7 +27,7 @@ My most interest is **Web development**.
 <a href="mailto:xxalsgh0203@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=xxalsgh0203@gmail.com"/></a>
 </p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxalsgh0203&count_bg=%238EC8D9&title_bg=%23A2406F&icon=&icon_color=%2330C799&title=hits&edge_flat=true"/></a>
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/minho-kim-697608212/)](https://www.linkedin.com/in/minho-kim-697608212/)
+
 - - -
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xxalsgh0203&show_icons=true&theme=radical)](https://github.com/xxalsgh0203/github-readme-stats)
