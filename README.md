@@ -2,7 +2,8 @@
 <br>
 My major is **COMPUTER SCIENCE:books:**, and I have been studying **computer science:computer:** since 2020.
 <br>
-I have project experience using **C++(My most confident language)**, Javascript, React, NodeJS. 
+I have project experience using **C++(My most confident language)**, Javascript, React, NodeJS.
+<br>
 My most interest is **Web development**.
 
 
