@@ -1,5 +1,9 @@
 :wave: Hello My name is Minho Kim, I am a current student at University of Houston.
- My major is **COMPUTER SCIENCE:books:**, and I have been studying **computer science:computer:** since 2020. I have project experience using **C++(My most confident language)**, Javascript, React, NodeJS. My most interest is **Web development**.
+<br>
+My major is **COMPUTER SCIENCE:books:**, and I have been studying **computer science:computer:** since 2020.
+<br>
+I have project experience using **C++(My most confident language)**, Javascript, React, NodeJS. 
+My most interest is **Web development**.
 
 
 <h3>💪🏻 Tech Stack  💪🏻</h3>
