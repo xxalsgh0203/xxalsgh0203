@@ -26,6 +26,7 @@ My most interest is **Web development**.
   <a href="https://www.instagram.com/xxalsgh0203/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xxalsgh0203/"/></a>&nbsp
   <a href="mailto:xxalsgh0203@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=xxalsgh0203@gmail.com"/></a>
 </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxxalsgh0203&count_bg=%238EC8D9&title_bg=%23A2406F&icon=&icon_color=%2330C799&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 
 - - -
