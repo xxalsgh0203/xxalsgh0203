@@ -1,6 +1,6 @@
 :wave: Hello My name is Minho Kim, I am a current student at University of Houston.
 <br>
-My major is **COMPUTER SCIENCE:computer:**, and I have been studying **computer science since 2020.
+My major is **COMPUTER SCIENCE:computer:**, and I have been studying COMPUTER SCIENCE since 2020.
 <br>
 I have project experience using **C++(My most confident language)**, Javascript, React, NodeJS.
 <br>
