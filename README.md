@@ -1,13 +1,13 @@
-🙌🏻  Hello, My name is Minho Kim, undergraudate student of University of Houston. Also a passionate self-taught Web developer 🖥
+🙌🏻  Hello, My name is **Minho Kim**, undergraudate student of University of Houston. Also a passionate self-taught **Web developer** 🖥
 <br>
 My passion for Web development lies with dreaming up ideas and making them come true with elegant interfaces.
 <br>
 I really focuses on code quality of the things i build.
 <br>
 <br>
-💫  Currently, I am majoring in COMPUTER SCIENCE 🎓 as a Junior.
+💫  Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Junior**.
 <br>
-💫  Previously, i worked as a Computer Technician at Republic of Korean Army 🇰🇷
+💫  Previously, i worked as a **Computer Technician** at **Republic of Korean Army** 🇰🇷
 <br>
 <br>
 I have project experience using **C++, Javascript, React, NodeJS**.
