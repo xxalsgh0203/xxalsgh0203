@@ -5,7 +5,8 @@ My passion for Web development lies with dreaming up ideas and making them come 
 I really focuses on code quality of the things i build.
 <br>
 Now, I am learing COMPUTER SCIENCE 🎓 at school since 2020.
-Previously i worked as a Computer Technician at Republic of Korean Army 🇰🇷
+<br>
+Previously, i worked as a Computer Technician at Republic of Korean Army 🇰🇷
 <br>
 I have project experience using **C++(My most confident language)**, Javascript, React, NodeJS.
 
