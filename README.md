@@ -5,14 +5,14 @@ My passion for Web development lies with dreaming up ideas and making them come 
 I really focuses on code quality of the things i build.
 <br>
 <br>
-Currently, I am majoring in COMPUTER SCIENCE 🎓 as a Junior.
+** Currently, I am majoring in COMPUTER SCIENCE 🎓 as a Junior.
 <br>
-Previously, i worked as a Computer Technician at Republic of Korean Army 🇰🇷
+** Previously, i worked as a Computer Technician at Republic of Korean Army 🇰🇷
 <br>
 <br>
 I have project experience using **C++(My most confident language)**, Javascript, React, NodeJS.
 
-<h3>💪🏻 Tech Stack  💪🏻</h3>
+<h3>🛠 Tech Stack 🛠</h3>
 <br>
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
