@@ -4,7 +4,7 @@ My passion for Web development lies with dreaming up ideas and making them come 
 <br>
 I really focuses on code quality of the things i build.
 <br>
-Now, I am learing COMPUTER SCIENCE 🎓 at school since 2020.
+Currently, I am majoring in COMPUTER SCIENCE 🎓 as a Junior.
 <br>
 Previously, i worked as a Computer Technician at Republic of Korean Army 🇰🇷
 <br>
