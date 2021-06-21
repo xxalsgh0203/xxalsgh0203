@@ -10,7 +10,7 @@ I really focuses on code quality of the things i build.
 💫  Previously, i worked as a Computer Technician at Republic of Korean Army 🇰🇷
 <br>
 <br>
-I have project experience using **C++**, Javascript, React, NodeJS.
+I have project experience using **C++, Javascript, React, NodeJS**.
 
 <h3>🛠 Tech Stack 🛠</h3>
 <p>
