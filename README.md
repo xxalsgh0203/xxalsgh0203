@@ -1,4 +1,6 @@
-🙌🏻  Hello, My name is **Minho Kim**, undergraudate student of University of Houston. Also a passionate self-taught **Web developer** 🖥
+🙌🏻  Hello, My name is **Minho Kim**, undergraudate student of University of Houston.
+<br>
+Also a passionate self-taught **Web developer** 🖥
 <br>
 My passion for Web development lies with dreaming up ideas and making them come true with elegant interfaces.
 <br>
