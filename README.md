@@ -1,4 +1,4 @@
-🙌🏻  Hello, My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of University of Houston.
+🙌🏻   Hello, My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of University of Houston.
 <br>
 Also a passionate self-taught **Web developer** 
 <br>
