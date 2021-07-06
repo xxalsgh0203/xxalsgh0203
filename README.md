@@ -1,13 +1,15 @@
-🙌🏻   Hello, My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of University of Houston.
+Hello,  🙌🏻  
 <br>
-Also a passionate self-taught **Web developer** 
+My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of University of Houston.
 <br>
-My passion for Web development lies with dreaming up ideas and making them come true with elegant interfaces.
+Also a passionate self-taught **Web developer** 🖥
 <br>
-I really focuses on code quality of the things i build.
+My passion for Web development lies with dreaming up ideas and making them come true with elegant interfaces ✨✨
+<br>
+I really focuses on code quality of the things i build
 <br>
 <br>
-💫  Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Junior**.
+💫  Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Junior**
 <br>
 💫  Previously, i worked as a **Computer Technician** at **Republic of Korean Army** 🇰🇷
 <br>
@@ -18,11 +20,15 @@ I have project experience using **C++, Javascript, React, NodeJS**.
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+</p>
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+</p>
+<p>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp
 </p>
