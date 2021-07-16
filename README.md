@@ -4,7 +4,7 @@ My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of Universit
 <br>
 Also a passionate self-taught **Web developer** 🖥
 <br>
-My passion for Web development lies with dreaming up ideas and making them come true with elegant interfaces ✨✨
+My passion for Web development lies with building up ideas and visualizing them with elegant interfaces ✨✨
 <br>
 I really focuses on code quality of the things i build
 <br>
