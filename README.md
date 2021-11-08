@@ -3,8 +3,6 @@ Hello,  🙌🏻
 My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of University of Houston.
 <br>
 Also a passionate self-taught **Web developer** 🖥
-
-<br>
 <br>
 💫  Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Junior**
 <br>
