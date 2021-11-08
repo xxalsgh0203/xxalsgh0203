@@ -4,6 +4,7 @@ My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of Universit
 <br>
 Also a passionate self-taught **Web developer** 🖥
 <br>
+<br>
 💫  Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Junior**
 <br>
 💫  Previously, i worked as a **Computer Technician** at **Republic of Korean Army** 🇰🇷
