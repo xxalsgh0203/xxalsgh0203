@@ -3,10 +3,7 @@ Hello,  🙌🏻
 My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of University of Houston.
 <br>
 Also a passionate self-taught **Web developer** 🖥
-<br>
-My passion for Web development lies with building up ideas and visualizing them with elegant interfaces ✨✨
-<br>
-I really focuses on code quality of the things i build
+
 <br>
 <br>
 💫  Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Junior**
