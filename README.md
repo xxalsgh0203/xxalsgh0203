@@ -2,7 +2,7 @@ Hello,  🙌🏻
 <br>
 My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of University of Houston.
 <br>
-A passionate self-taught **Web developer** 🖥
+A passionate self-taught **developer** 🖥
 <br>
 <br>
 💫 Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Junior**
