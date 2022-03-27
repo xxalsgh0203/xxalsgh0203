@@ -9,8 +9,7 @@ A passionate self-taught **developer** 🖥
 <br>
 💫  Previously, i worked as a **Computer Technician** at **Republic of Korean Army** 🇰🇷
 <br>
-<br>
-I have project experience using **C++, Javascript, React, NodeJS**.
+
 
 <h3>🛠 Tech Stack 🛠</h3>
 <p>
