@@ -3,7 +3,10 @@ Hello,  🙌🏻
 My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of University of Houston.
 <br>
 A passionate self-taught **developer** 🖥
+<br>
 Interested in Algorithms, Networks, Game development, and Operating Systems.
+<br>
+Ohter than that, I like to play and watch soccer ⚽️
 <br>
 <br>
 💫 Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Senior**
