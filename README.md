@@ -6,7 +6,7 @@ A passionate self-taught **developer** 🖥
 <br>
 Interested in Algorithms, Networks, Game development, and Operating Systems.
 <br>
-Ohter than that, I also like playing and watching soccer ⚽️
+Other than that, I also like playing and watching soccer ⚽️
 <br>
 <br>
 💫 Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Senior**
