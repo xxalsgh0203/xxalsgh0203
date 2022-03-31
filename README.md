@@ -5,8 +5,7 @@ My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of Universit
 A passionate self-taught **developer** 🖥
 <br>
 Interested in Algorithms, Networks, Game development, and Operating Systems.
-<br>
-Other than that, I also like playing and watching soccer ⚽️
+
 <br>
 <br>
 💫 Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Senior**
