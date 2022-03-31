@@ -11,8 +11,6 @@ Interested in Algorithms, Networks, Game development, and Operating Systems.
 💫 Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Senior**
 <br>
 💫  Previously, i worked as a **Computer Technician** at **Republic of Korean Army** 🇰🇷
-<br>
-
 
 <h3>🛠 Tech Stack 🛠</h3>
 <p>
