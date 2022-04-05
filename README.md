@@ -7,9 +7,9 @@ A passionate self-taught **developer** 🖥
 Interested in Algorithms, Networks, Game development, and Operating Systems.
 
 <br>
-💫 Currently, I am majoring in **COMPUTER SCIENCE** 🎓 as a **Senior**
+💫 Currently, I am majoring in **COMPUTER SCIENCE** 🎓, **Senior**
 <br>
-💫  Previously, i worked as a **Computer Technician** at **Republic of Korean Army** 🇰🇷
+💫 Previously, i worked as a **Computer Technician** at **Republic of Korean Army** 🇰🇷
 
 <h3>🛠 Tech Stack 🛠</h3>
 <p>
