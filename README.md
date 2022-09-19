@@ -1,15 +1,4 @@
-Hello,  🙌🏻  
-<br>
-My name is **Minho Kim**, **undergraudate student** 🧑🏻‍🎓 of University of Houston.
-<br>
-A passionate self-taught **developer** 🖥
-<br>
-Interested in Algorithms, Networks, Game development, and Operating Systems.
 
-<br>
-💫 Currently, I am majoring in **COMPUTER SCIENCE** 🎓, **Senior**
-<br>
-💫 Previously, i worked as a **Computer Technician** at **Republic of Korean Army** 🇰🇷
 
 <h3>🛠 Tech Stack 🛠</h3>
 <p>
