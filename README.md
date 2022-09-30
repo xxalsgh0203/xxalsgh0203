@@ -18,6 +18,7 @@
 <p>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 </p>
 
 <h3>🇰🇷 Me 🇺🇸 </h3>
