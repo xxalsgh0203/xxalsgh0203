@@ -1,8 +1,9 @@
+<h1>
+  Hi, there 👋🏻
+</h1>
+
 <p>
-  Hello ! This is Minho Kim's Github
-</p>
-<p>
-  Resume  👉🏻  <a href="https://resume.creddle.io/resume/1pkqcje195v"><img src="https://img.shields.io/badge/About.me-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://resume.creddle.io/resume/1pkqcje195v"/></a>&nbsp
+ RESUME 👉🏻  <a href="https://resume.creddle.io/resume/1pkqcje195v" target="_blank"><img src="https://img.shields.io/badge/About.me-[#00A98F?style=flat-square&logo=About.me&logoColor=white"/></a>
 </p>
 <h3>🛠 Tech Stack 🛠</h3>
 <p>
