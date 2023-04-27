@@ -23,7 +23,7 @@
 <h3>🇰🇷 Me 🇺🇸 </h3>
 <p>
 <a href="https://blog.naver.com/music4537"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://blog.naver.com/music4537"/></a>&nbsp
-<a href="https://www.instagram.com/xxalsgh0203/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xxalsgh0203/"/></a>&nbsp
+<a href="https://www.instagram.com/_minhokim/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/xxalsgh0203/"/></a>&nbsp
 <a href="mailto:xxalsgh0203@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=xxalsgh0203@gmail.com"/></a>
   <a href="https://resume.creddle.io/resume/1pkqcje195v"><img src="https://img.shields.io/badge/Resume-00A98F?style=flat-square&logo=Resume&logoColor=white&link=https://resume.creddle.io/resume/1pkqcje195v"/></a>&nbsp
 </p>
