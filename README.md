@@ -23,7 +23,7 @@
 <h3>Frontend Develop Skills</h3>
  
    [![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)](https://ko.wikipedia.org/wiki/Javascript/) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://ko.wikipedia.org/wiki/HTML5) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://ko.wikipedia.org/wiki/CSS) <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Next.js-8ED500?style=flat-square&logo=Next.js&logoColor=#000000"/>
+  <img src="https://img.shields.io/badge/Next.js-8ED500?style=flat-square&logo=Next.js&logoColor=#000000"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 
 <h3>Algorithm Languages</h3>
 
